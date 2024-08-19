@@ -37,4 +37,4 @@ function printUnknownType()
     console.log( password )
 }
 
-program2() 
+program2()
