@@ -42,6 +42,8 @@ function genericTypes()
 function genericClasses()
 {
 
+
+    // A class that stores an array of a particular datatype 
     class Store<T> 
     {
         
